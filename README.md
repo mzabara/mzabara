@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Maxim Zabara (@mzabara)
-- 👀 I’m interested in Angualar products
-- 🌱 I’m currently learning Agnular
+- 👀 I’m interested in Angular products
 - 📫 My telegram @mzabara
 
 <!---
